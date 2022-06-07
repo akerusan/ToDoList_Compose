@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">ToDoListComposeMVVM</string>
+    <string name="top_bar_title">Notes</string>
+    <string name="add_button">Add Button</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="sort_action">Sort Notes</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="search_bar_placeholder">Search</string>
+    <string name="search_bar_search_icon">Search Icon</string>
+    <string name="search_bar_close_icon">Close Icon</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="add_note_description">Add a note</string>
+    <string name="back_arrow">Back Arrow</string>
+
+    <string name="close_icon">Close Icon</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="edit_icon">Edit Icon</string>
+    <string name="update_icon">Update Icon</string>
+
+    <string name="drop_down_arrow">DropDown Arrow Icon</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="delete_note">Remove \'%1$s\' ?</string>
+    <string name="delete_note_confirm">Are you sure you want to delete \'%1$s\' ?</string>
+
+    <string name="delete_all_notes">Delete All Notes ?</string>
+    <string name="delete_all_notes_confirm">Are you sure you want to delete all notes ?</string>
+
+    <string name="splash_logo">Splash Screen Logo</string>
+
+</resources>
